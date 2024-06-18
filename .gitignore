@@ -1,5 +1,5 @@
-# data
-\data\
+# Ignore data files
+data/
 
 # Mac OS-specific storage files
 .DS_Store
