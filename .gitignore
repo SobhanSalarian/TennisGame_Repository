@@ -1,6 +1,7 @@
 # Ignore data files
 data/
 references/
+backupFiles/
 
 # Mac OS-specific storage files
 .DS_Store
